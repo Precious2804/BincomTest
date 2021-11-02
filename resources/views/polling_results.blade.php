@@ -11,7 +11,7 @@
 
                             <div class="card">
                                 <div class="card-header">
-                                    <h4>New Result</h4>
+                                    <h4>New Result - Answer to Question 3 completed</h4>
                                 </div>
 
                                 <div class="card-body">

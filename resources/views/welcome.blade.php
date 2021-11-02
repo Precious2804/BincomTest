@@ -11,7 +11,7 @@
                         <div class="col-lg-12">
                             <div class="card">
                                 <div class="card-header">
-                                    <h4>{{env('APP_NAME')}} (All LGA) - <a href="/lga_results">View Result Total by LGA</a></h4>
+                                    <h4>{{env('APP_NAME')}} (All LGA) </h4>
                                 </div>
                                 <div class="card-body">
                                     <div class="table-responsive">
